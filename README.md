@@ -3,7 +3,7 @@
 - 🌱 I’m currently finishing my double degree master at ESILV (french engineering school) - EMLV (french business school)
 I'll get a master in Computer Science and another in Corporate Finance 
 
-- 👯 I’m an ex-Amazon intern, looking forward to do my end of study internship in a FAAMG starting February 2021
+- 👯 I’m actually an Amazon intern and will graduate in July 2021
 
 <!--
 **Shraneid/Shraneid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
