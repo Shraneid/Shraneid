@@ -1,9 +1,8 @@
 ### Hi there 👋, it's Quentin 🤸
 
-- 🌱 I’m currently finishing my double degree master at ESILV (french engineering school) - EMLV (french business school)
-I'll get a master in Computer Science and another in Corporate Finance 
+- 🌱 Just finished my double degree master at ESILV (Computer Science Engineering) - EMLV (Corporate Finance)
 
-- 👯 Currently interning at Amazon, I will graduate from both schools in July 2021
+- 👯 Just started as an engineer at Amazon.
 
 <!--
 **Shraneid/Shraneid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
