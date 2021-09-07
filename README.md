@@ -4,6 +4,8 @@
 
 - 👯 Just started as an engineer at Amazon.
 
+Feel free to contact me about any project, I'd be glad to discuss about them !
+
 <!--
 **Shraneid/Shraneid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
