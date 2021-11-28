@@ -2,7 +2,7 @@
 
 - 🌱 Just finished my double degree master at ESILV (Computer Science Engineering) - EMLV (Corporate Finance)
 
-- 👯 Just started as an engineer at Amazon.
+- 👯 Started as an engineer at Amazon.
 
 Feel free to contact me about any project, I'd be glad to discuss about them !
 
