@@ -1,8 +1,8 @@
 ### Hi there 👋, it's Quentin 🤸
 
-- 🌱 Just finished my double degree master at ESILV (Computer Science Engineering) - EMLV (Corporate Finance)
+- 🌱 I have a double degree master at ESILV (Computer Science Engineering) - EMLV (Corporate Finance)
 
-- 👯 Started as an engineer at Amazon.
+- 👯 I'm a fulltime SDE publishing small projects I do in my free time, most of those are from before graduation
 
 Feel free to contact me about any project, I'd be glad to discuss about them !
 
